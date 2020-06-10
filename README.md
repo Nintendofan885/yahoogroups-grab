@@ -1,7 +1,7 @@
 yahoogroups-grab
 =============
 
-More information about the archiving project can be found on the ArchiveTeam wiki: [Yahoo! Groups](http://archiveteam.org/index.php?title=Yahoo! Groups)
+More information about the archiving project can be found on the ArchiveTeam wiki: [Yahoo! Groups](http://archiveteam.org/index.php?title=Yahoo!_Groups)
 
 Setup instructions
 =========================
